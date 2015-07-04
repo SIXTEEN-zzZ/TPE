@@ -90,6 +90,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 					<jsp:include page="query.jsp"/>
     		</div>
     	</div>
-    	<div id="pagefooter" bgcolor="gray">一二三四五六7</div>
+    	<div id="pagefooter" bgcolor="gray">一二三四五六</div>
   </body>
 </html>
